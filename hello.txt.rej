@@ -1,0 +1,7 @@
+diff a/hello.txt b/hello.txt	(rejected hunks)
+@@ -1,3 +1,4 @@
+ 12121
+ apple
+ good
++222222
+\ No newline at end of file
